@@ -1,5 +1,5 @@
 # SQL exploratory data analysis project
-Welcome to My SQL data analysis project. This is my first project, can't wait to share you guy my work!
+This project will analyzing a business dataset by using SQL Server. This is my first project and I can't wait to share you guy my work!
 
 ## Goal: discover useful insights from customer, product and sales data
 ### 1. 📈 Changes Over Time Analysis
@@ -22,3 +22,14 @@ Welcome to My SQL data analysis project. This is my first project, can't wait to
 **Understand the contribution of different categories**
 - (Sales / Total Sales)*100 by Category
 - (Quantity / Total Quantity)*100 by Country
+---
+### 5. 🧱 Data Segmentation
+**Understand the correlation between two group**
+- Total Products by Sales Range
+- Total Customers by Age
+---
+### 6. Customer Report
+### 7. Product Report
+---
+How to use
+1.
