@@ -30,6 +30,5 @@ This project will analyzing a business dataset by using SQL Server. This is my f
 ---
 ### 6. Customer Report
 ### 7. Product Report
----
-How to use
-1.
+
+
