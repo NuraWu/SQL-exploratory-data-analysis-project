@@ -1,6 +1,6 @@
 # SQL exploratory data analysis project
 This project will analyzing a business dataset by using SQL Server. This is my first project and I can't wait to share you guy my work!
-All the SQL scrip can be checked under the "scrip" folder.
+All the SQL scripts can be found in the 'scripts' folder.
 
 ## Goal: discover useful insights from customer, product and sales data
 ### 1. 📈 Changes Over Time Analysis
