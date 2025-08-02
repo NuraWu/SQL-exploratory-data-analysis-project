@@ -1,5 +1,6 @@
 # SQL exploratory data analysis project
 This project will analyzing a business dataset by using SQL Server. This is my first project and I can't wait to share you guy my work!
+All the SQL scrip can be checked under the "scrip" folder.
 
 ## Goal: discover useful insights from customer, product and sales data
 ### 1. 📈 Changes Over Time Analysis
@@ -43,7 +44,6 @@ This project will analyzing a business dataset by using SQL Server. This is my f
 
 ---
 ### 6. Customer Report
-Check the scrip for Customer Report under 
 <img width="2176" height="1244" alt="image" src="https://github.com/user-attachments/assets/d7162cc5-5b42-458b-ad6f-9d6c76841290" />
 
 
